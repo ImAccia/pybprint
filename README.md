@@ -1,4 +1,4 @@
-# EasyLog
+# BetterPrint
 Simple Python module to print stuff in a prettier way
 
 
