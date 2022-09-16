@@ -19,11 +19,7 @@ The module uses colorama to display colors, but in an easier way, and with the p
 
 ## Usage
 
-Download module from github:
-
-        git clone https://github.com/ImAccia/pybprint.git
-     
-
+Download module 
 Import the module in your script and use it
 
 - Parameters:
