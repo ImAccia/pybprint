@@ -1,0 +1,10 @@
+LICENSE.rst
+README.md
+setup.cfg
+setup.py
+src/pybprint/__init__.py
+src/pybprint.egg-info/PKG-INFO
+src/pybprint.egg-info/SOURCES.txt
+src/pybprint.egg-info/dependency_links.txt
+src/pybprint.egg-info/requires.txt
+src/pybprint.egg-info/top_level.txt
